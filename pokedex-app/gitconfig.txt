@@ -1,0 +1,15 @@
+git config --global user.name AnaBeatriz15010
+git config --global user.email anaevalegilmar@gmail.com
+
+git config --global user.name angelo2709
+git config --global user.email angelogab2710@gmail.com
+
+-- Criar um projeto React Native
+npx create-expo-app@latest pokedex-app
+
+
+-- executar 
+npx expo start --android
+
+cd pokedex-app
+npm i @expo/vector-icons
